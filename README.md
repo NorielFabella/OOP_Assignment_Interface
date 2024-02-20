@@ -17,4 +17,4 @@
 
     o   **ShopeePay**: Offers a 10% discount
 
-- The application should allow users to set the payment method for an order and **calculate the total amount, storing it in the** totalAmount** attribute**.
+- The application should allow users to set the payment method for an order and **calculate the total amount, storing it in the **totalAmount** attribute**.
